@@ -66,6 +66,6 @@ def write_to_sql():
         print(e)
 
 
-open_db()
-write_to_sql()
-close_db()
+# open_db()
+# write_to_sql()
+# close_db()
